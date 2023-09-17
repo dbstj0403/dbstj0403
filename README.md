@@ -1,6 +1,6 @@
-### Hi there 👋
+#### Hi there 👋
 
-##### 👻 My Info
+### 👻 My Info
 
 ----
 <a href="https://www.instagram.com/lov2loveluv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
@@ -10,7 +10,7 @@
 <br>
 <br>
 
-##### ✨ My Experience
+### ✨ My Experience
  
  ----
 - ##### 홍익대학교 컴퓨터공학과 (2021.03 ~ ) 
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-##### 📚 Studying...
+### 📚 Studying...
 
 ----
 
@@ -30,7 +30,7 @@
 <br>
 <br>
 
-##### 🌊 My Github
+### 🌊 My Github
 
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbstj0403&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
