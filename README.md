@@ -31,11 +31,5 @@
 <br>
 <br>
 
-### 🌊 My Github
-
-----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbstj0403&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-![Yunseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbstj0403&show_icons=true&theme=dracula&custom_title=Yunseo&#39;&nbsp;Github&nbsp;Stats) 
-
 
 
