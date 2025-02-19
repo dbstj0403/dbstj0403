@@ -1,13 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76EA4&width=435&lines=Hi%2C+I'm+Yoonseo!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76EA4&width=435&lines=Hi%2C+I'm+Yoonseo!+%E1%AF%93%E1%A1%A3%E1%A9%9A%F0%90%AD%A9)](https://git.io/typing-svg)
 
-💻 Passionate about technology and creating user-centered services.  
-🚀 Exploring the latest tech trends and building solutions that matter.
+**-ˋˏ ♡ ˎˊ-Tech Stack**
 
-## 🛠️ Tech Stack
-- React | React Native | JavaScript | Node.js  
-- MongoDB | Express | Tailwind CSS  
+## 🛠 Tech Stack
 
-## 🚀 Experience
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+</p>
+
+**˚₊·—̳͟͞͞♡ Experience**
 
 <ul>
   <li><sub>홍익대학교 컴퓨터공학과 (2021.03 ~ now)</sub></li>
@@ -19,5 +22,6 @@
   <li><sub>2024 홍익대학교 대동제 사이트 프로젝트 (2024.07 ~ 2024.09)</sub></li>
   <li><sub>2024 홍익대학교 졸업 프로젝트 장려상 수상 (2024.03 ~ 2024.12)</sub></li>
 </ul>
+
 
 
