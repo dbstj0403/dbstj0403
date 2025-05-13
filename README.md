@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76EA4&width=435&lines=Hi%2C+I'm+Yoonseo!+%E1%AF%93%E1%A1%A3%E1%A9%9A%F0%90%AD%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=935CF7&width=435&lines=Hi%2C+I'm+Yoonseo!+%EA%92%B0%E2%B8%9D%E2%B8%9D%E2%80%A2%E1%B4%97%E2%80%A2%E2%B8%9D%E2%B8%9D%EA%92%B1%E0%A9%AD%E2%81%BE%E2%81%BE)](https://git.io/typing-svg)
 
 **-ˋˏ ♡ ˎˊ-Tech Stack**
 
