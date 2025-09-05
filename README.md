@@ -34,5 +34,13 @@
   <li><sub>디지털 하나로 금융서비스개발 6기 (2025.03 ~ now)</sub></li>
 </ul>
 
+**꒰ᐢ..ᐢ꒱₊˚⊹ Stats**
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dbstj0403&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dbstj0403"
+  width="600"
+  height="300"
+/>
+</a>
 
