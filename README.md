@@ -40,9 +40,6 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dbstj0403&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/dbstj0403" width="300" height="150"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dbstj0403" height="150"/>
-  </a>
 </div>
 
 
